@@ -1,0 +1,41 @@
+[
+  {
+    "id": "s3://voice-cloning-zero-shot/d8fd5b37-fa56-4c0a-9f14-45161f18a5a3/original/manifest.json",
+    "name": "Bahubali SIR",
+    "type": "instant",
+    "gender": "male",
+    "voice_engine": "PlayHT2.0"
+  },
+  {
+    "id": "s3://voice-cloning-zero-shot/450ad8fb-87bc-4dcf-8709-73cd0c185dda/original/manifest.json",
+    "name": "R madhvan",
+    "type": "instant",
+    "gender": "male",
+    "voice_engine": "PlayHT2.0"
+  },
+  {
+    "id": "s3://voice-cloning-zero-shot/64eea456-f123-4422-9ef8-921db30cb01f/original/manifest.json",
+    "name": "Priyanka C",
+    "type": "instant",
+    "voice_engine": "PlayHT2.0"
+  },
+  {
+    "id": "s3://voice-cloning-zero-shot/08d78651-9f07-49e0-abd9-75f6230080f7/original/manifest.json",
+    "name": "Optimus prime",
+    "type": "instant",
+    "gender": "male",
+    "voice_engine": "PlayHT2.0"
+  },
+  {
+    "id": "s3://voice-cloning-zero-shot/a8224524-05e6-4cd4-9542-786e666a3690/original/manifest.json",
+    "name": "Morgan Freeman",
+    "type": "instant",
+    "voice_engine": "PlayHT2.0"
+  },
+  {
+    "id": "s3://voice-cloning-zero-shot/4a4352b9-6563-4e44-b1f1-b9be6cd45c90/original/manifest.json",
+    "name": "Sashi Tharoor",
+    "type": "instant",
+    "voice_engine": "PlayHT2.0"
+  }
+]
