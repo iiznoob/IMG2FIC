@@ -10,7 +10,7 @@ Installation
 
 To install the necessary Python libraries for this project, follow these steps:
 
-    Clone the Repository:                                                      
+Clone the Repository:                                                      
 
     bash                 
 
@@ -23,12 +23,16 @@ Create and Activate a Virtual Environment (optional but recommended):
 bash                                                                 
 
 # Create virtual environment
+
 bash
+
      python -m venv venv
+
 
 # Activate virtual environment
 
 bash
+
     source venv/bin/activate  # for Unix/Linux
     venv\Scripts\activate  # for Windows
 
@@ -49,18 +53,6 @@ bash
     streamlit run app.py
 
 Open a web browser and go to http://localhost:8501 to view your Streamlit app.
-Project Structure
-
-The project directory structure:
-
-bash                            
-
-project/
-│
-├── app.py                 # Streamlit application script
-├── requirements.txt       # List of Python dependencies
-├── README.md              # Project documentation (you are here)
-└── (other project files)  # Additional project files as needed
 
 Contributing                                                   
 
